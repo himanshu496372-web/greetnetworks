@@ -1,0 +1,8 @@
+{
+  "name": "GreetNetworks - Practical Learning & Speaking Community",
+  "description": "A free learning community where people build practical skills by learning, practising and getting feedback in public speaking and networking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
